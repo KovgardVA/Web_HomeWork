@@ -1,0 +1,25 @@
+body {
+    width: 800px;
+    background-color: bisque;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    font-family: 'Itim', cursive;
+}
+
+h1 {
+    text-shadow: 2px 2px 1px white;
+}
+
+a {
+    margin: 0;
+    padding: 20px 0;
+    color: brown; 
+}
+
+.header {
+    margin: 0;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
